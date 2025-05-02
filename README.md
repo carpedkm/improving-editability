@@ -4,7 +4,7 @@ Daneul Kim, Jaeah Lee, Jaesik Park
 *Code to be released soon…*
 
 ## TODO
-- Paper release  
-- Inference code release  
-- Benchmark dataset release  
-- Extended benchmark dataset & result release  
+- [ ] Paper release  
+- [ ] Inference code release  
+- [ ] Benchmark dataset release  
+- [ ] Extended benchmark dataset & result release  
