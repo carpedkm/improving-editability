@@ -5,7 +5,7 @@
 ## LATEST NEWS 🔥
 - Feb. 26th, 2025 Paper accepted to CVPR 2025!
 
-## TODO
+## TODOs
 - [ ] Paper release  
 - [ ] Inference code release  
 - [ ] Benchmark dataset release  
