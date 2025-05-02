@@ -2,7 +2,7 @@
 
 *Code to be released soon…*
 
-## LATEST NEWS 🔥
+## 🔥 Latest News 
 - Feb. 26th, 2025 Paper accepted to CVPR 2025!
 
 ## TODOs
