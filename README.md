@@ -3,6 +3,7 @@
 *Code to be released soon…*
 
 ## 🔥 Latest News 
+- May 5th, 2025 Paper released on arXiv!
 - Feb. 26th, 2025 Paper accepted to CVPR 2025!
 
 ## TODOs
