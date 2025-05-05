@@ -6,7 +6,7 @@
 - Feb. 26th, 2025 Paper accepted to CVPR 2025!
 
 ## TODOs
-- [ ] Paper release  
+- [ x ] Paper release  
 - [ ] Inference code release  
 - [ ] Benchmark dataset release  
 - [ ] Extended benchmark dataset & result release  
