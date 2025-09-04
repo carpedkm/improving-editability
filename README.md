@@ -1,6 +1,7 @@
 # Improving Editability in Image Generation with Layer-wise Memory  
 
 *Dataset released. Code update upcoming in September*
+
 *Apologies for the delay*
 
 
