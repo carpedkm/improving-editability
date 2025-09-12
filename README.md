@@ -54,7 +54,9 @@ Key features:
 4. Install custom dependencies:
    - Diffusers (from custom fork):
      ```bash
-     pip install -e "git+https://github.com/carpedkm/new_oacis.git@2c030a50af2aab11eb844a73233935c4fc746c44#egg=diffusers&subdirectory=diffusers"
+     cd diffusers
+     pip install -e .
+     cd ..
      ```
    - CLIP (from OpenAI):
      ```bash
@@ -113,11 +115,11 @@ The benchmark dataset (`multi_edit_bench_original_100.json`) contains 100 sample
 ## Citation
 If you find this work useful, please cite our paper:
 ```bibtex
-@inproceedings{improving_editability_2025,
-  title={Improving Editability in Image Generation with Layer-wise Memory},
-  author={Your Authors},
-  booktitle={CVPR},
-  year={2025}
+@inproceedings{dkm2025improving,
+  author    = {Kim, Daneul and Lee, Jaeah and Park, Jaesik},
+  title     = {Improving Image Editability in Image Generation with Layer-wise Memory},
+  booktitle = {CVPR},
+  year      = {2025},
 }
 ```
 
