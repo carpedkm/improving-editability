@@ -130,4 +130,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Built on PixArt-alpha and Hugging Face Diffusers.
 - Evaluation uses CLIP (OpenAI) and LLAVA (llava-hf).
 - Thanks to the open-source community for essential libraries.
-```
