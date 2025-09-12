@@ -1,5 +1,10 @@
-```markdown
 # Improving Editability in Image Generation with Layer-wise Memory  
+
+<p align="center">
+  <img src="assets/teaser.png" alt="Teaser image" />
+  <br/>
+  <em>CVPR 2025</em>
+</p>
 
 ## 🔥 Latest News 
 - Sep 12th, 2025 Code released on GitHub!
@@ -37,8 +42,8 @@ Key features:
 
 2. Create and activate a virtual environment (recommended):
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+    conda create -n editability python=3.12 -y
+    conda activate editability
    ```
 
 3. Install dependencies from `requirements.txt`:
